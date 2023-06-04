@@ -21,7 +21,7 @@ Abra o arquivo calculadora_mob.py em um editor de código ou IDE Python.
 Execute o arquivo calculadora_mob.py para iniciar a aplicação.
 
 A interface gráfica será exibida, permitindo que você insira os dados necessários e visualize o resultado do consumo do carro.
-Contribuição
+
 
 
 
